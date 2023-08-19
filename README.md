@@ -1,2 +1,2 @@
 # AB-Testing-With-Altryx
-In this  project, AB testing is implemented with Altryx
+This project involves the implementation of AB testing  with Alteryx
